@@ -6,4 +6,11 @@ hideLastModified: "true"
 summary: This is just a test
 tags:
   - anytags
+  - code
+  - ""
 ---
+and also this entry can host an image...
+
+
+
+![satellite and sun](/images/solar_orbiter_artist_impression_20190916_1_0.jpg)
