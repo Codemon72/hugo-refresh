@@ -17,5 +17,5 @@ collections:
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: 'false' }
       - { label: 'Hide last modification', name: 'hideLastModified', widget: 'boolean', default: 'true' }
       - { label: "Summary", name: "summary", widget: "text"}
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Tags', name: 'tags', widget: 'list', hint: 'add a comma to list several tags'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
