@@ -3,7 +3,7 @@ title: Testing A New Entry
 date: 2020-11-10T15:30:09.757Z
 draft: false
 hideLastModified: "true"
-summary: This is just a test
+summary: This is the summary text for the test
 tags:
   - anytags
   - code
